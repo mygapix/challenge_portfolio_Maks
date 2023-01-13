@@ -22,7 +22,8 @@ STRONA GŁÓWNA
 * opcja dodaj gracza nie powinna być w kafelku z linkami pomocniczymi. To w zasadzie głowny ficzer strony i powinien być wyeksponowany
 * w linkach pomocniczych powinien się znajdować Scouts Panel
 * kafelki z ilością graczy, meczy itd umieściłbym na dole strony, gdyż nie są to informacje aż tak istotne, by umieszczac je na górze, gdzie zazwyczaj spoglądamy w      pierwszej kolejności.
-![bla](https://drive.google.com/file/d/11QH1oF8vnoOQh5z6EPQ1RB3bKcEe85iA/view?usp=sharing)
+
 DODAJ GRACZA
-* na pierwszy rzut oka pola z danymi są chaotyczne
+* na pierwszy rzut oka pola z danymi są chaotyczne - adres email powinien być trzeci w kolejce za imieniem i nazwiskiem
+* 
 
