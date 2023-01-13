@@ -24,9 +24,10 @@ STRONA GŁÓWNA
 * kafelki z ilością graczy, meczy itd umieściłbym na dole strony, gdyż nie są to informacje aż tak istotne, by umieszczac je na górze, gdzie zazwyczaj spoglądamy w      pierwszej kolejności.
 
 DODAJ GRACZA
-* na pierwszy rzut oka pola z danymi są chaotyczne - adres email powinien być trzeci w kolejce za imieniem i nazwiskiem
-* czcionki nad polami tekstowymi powinny być ciut większe
-* na dole strony zabrakło spolszczenia "Submit" i "clear"
+* na pierwszy rzut oka pola z danymi są chaotyczne - adres email powinien być trzeci w kolejce za imieniem i nazwiskiem.
+* każde pole powinno być zauważalnie odseparowane od sąsiednich, teraz mam wrażenie, że jedno nachodzi na drugie.
+* czcionki nad polami tekstowymi powinny być ciut większe.
+* na dole strony zabrakło spolszczenia "Submit" i "clear".
 
 #### **_UWAGI EKSPLORACYJNE_**
 
