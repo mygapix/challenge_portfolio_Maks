@@ -28,7 +28,7 @@ DODAJ GRACZA
 * czcionki nad polami tekstowymi powinny być ciut większe
 * na dole strony zabrakło spolszczenia "Submit" i "clear"
 
-#### **_UWAGI EKSPLOATACYJNE_**
+#### **_UWAGI EKSPLORACYJNE_**
 
 STRONA GŁÓWNA
 * 
