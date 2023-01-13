@@ -33,4 +33,8 @@ DODAJ GRACZA
 #### **_UWAGI EKSPLORACYJNE_**
 
 STRONA GŁÓWNA
+* brak uwag
+
+DODAJ GRACZA
+
 * 
