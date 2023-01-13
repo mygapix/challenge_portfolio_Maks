@@ -38,5 +38,6 @@ STRONA GŁÓWNA
 
 DODAJ GRACZA
 
-* 
-[^1]: Side notes.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
