@@ -10,4 +10,4 @@ Wiedza i doświadczenie tu nabyte pozwolą mi zweryfikować, czy nadaję się na
 
 ## Subtask 4
 Aplikacja Scouts Panel polega na dodawaniu skautów piłki nożnej. Służy ona do monitorowania pozycji i umiejętności zawodników.
-|-cuśtam-|
+|cuśtam|
