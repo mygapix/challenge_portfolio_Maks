@@ -7,3 +7,6 @@ Cześć! Jestem Maks. Szukałem kursu stawiającego na zadania praktyczne i nie 
 
 Wiedza i doświadczenie tu nabyte pozwolą mi zweryfikować, czy nadaję się na to stanowisko :)
 #### **_Maks_**
+
+## Subtask 4
+Aplikacja Scouts Panel polega na dodawaniu skautów piłki nożnej. Służy ona do monitorowania pozycji i umiejętności zawodników.
