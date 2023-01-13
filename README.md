@@ -38,6 +38,8 @@ STRONA GŁÓWNA
 
 DODAJ GRACZA
 
-* podczas wpisywania w osiągnięciach znaków specjalnych skasowało mi wcześniej wypełnione pola 
+* podczas wpisywania w osiągnięciach znaków specjalnych skasowało mi wcześniej wypełnione pola - jednorazowy przypadek
+* po wpisaniu , gdzie to możliwe, randomowych liter cyfr i znaków specjalnych i zatwierdzeniu gracza wyświetla się na moment informacja "nie udało się dodać gracza". Nie ma żadnej informacji w których polach dane zostały źle wprowadzone.
+* 
 
 <sub>UWAGA: Testy wykonano na systemie Windows 10 ( wersja 22H2, kompilacja 19045.2486), przeglądarka Opera w wersji 94.0.4606.38</sub>
