@@ -23,6 +23,7 @@ STRONA GŁÓWNA
 * w linkach pomocniczych powinien się znajdować Scouts Panel
 * kafelki z ilością graczy, meczy itd umieściłbym na dole strony, gdyż nie są to informacje aż tak istotne, by umieszczac je na górze, gdzie zazwyczaj spoglądamy w      pierwszej kolejności.
 * dodatkowo brakuje na górnym niebieskim pasku dosłownie kilku słów o czym jest ta strona.
+![Strona główna uwagi](https://user-images.githubusercontent.com/39927014/212330059-9234112d-75fd-4d8d-b29c-da76200d7fc5.jpg)
 
 DODAJ GRACZA
 * na pierwszy rzut oka pola z danymi są chaotyczne - adres email powinien być trzeci w kolejce za imieniem i nazwiskiem.
@@ -38,3 +39,4 @@ STRONA GŁÓWNA
 DODAJ GRACZA
 
 * 
+
