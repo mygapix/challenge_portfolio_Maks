@@ -38,4 +38,6 @@ STRONA GŁÓWNA
 
 DODAJ GRACZA
 
+* podczas wpisywania w osiągnięciach znaków specjalnych skasowało mi wcześniej wypełnione pola 
+
 <sub>UWAGA: Testy wykonano na systemie Windows 10 ( wersja 22H2, kompilacja 19045.2486), przeglądarka Opera w wersji 94.0.4606.38</sub>
