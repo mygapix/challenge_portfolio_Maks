@@ -19,4 +19,4 @@ Na stronie głównej na samej górze jest niebieski pasek z nazwą strony. Niże
 * pole nawigacyjne powinno być przeniesione na górny niebieski pasek, jako, że w tym miejscu będzie bardziej widoczne.
 * opcja dodaj gracza nie powinna być w kafelku z linkami pomocniczymi. To w zasadzie głowny ficzer strony i powinien być wyeksponowany
 * w linkach pomocniczych powinien się znajdować Scouts Panel
-* 
+* kafelki z ilością graczy, meczy itd umieściłbym na dole strony, gdyż nie są to informacje aż tak istotne, by umieszczac je na górze, gdzie zazwyczaj spoglądamy w      pierwszej kolejności.
