@@ -34,7 +34,7 @@ DODAJ GRACZA
 #### **_UWAGI EKSPLORACYJNE_**
 
 STRONA GŁÓWNA
-* brak uwag
+1. Brak uwag
 
 DODAJ GRACZA
 
@@ -47,8 +47,10 @@ DODAJ GRACZA
 
 ![poprawne dodanie gracza](https://user-images.githubusercontent.com/39927014/212340016-3339ebf3-eb0c-44f5-9a09-9f0fcce0fb73.jpg)
 
-\4. Większość pól musi mieć dokładnie zdefiniowane wartości, jakie może przyjąć: 
+4. Większość pól musi mieć dokładnie zdefiniowane wartości, jakie może przyjąć: 
+
   4.1 Na przykład pole mejlowe musi mieć zdefiniowany prefix mejla do 2 lub 3 znaków (pl, com)
+  
   4.2 f
     
 
