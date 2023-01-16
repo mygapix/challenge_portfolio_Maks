@@ -51,7 +51,7 @@ DODAJ GRACZA
 
     4.1 Na przykład pole mejlowe musi mieć zdefiniowany prefix mejla do 2 lub 3 znaków (pl, com)
   
-    4.2 Pola ( imię, nazwisko, poziom rozgrywek, główna pozycja, pozycja alternatywna, osiągnięcia, Łączy nas piłka, Profil facebook) powinny mieć znaki ograniczone do               liter
+    4.2 Pola ( imię, nazwisko, poziom rozgrywek, główna pozycja, pozycja alternatywna, osiągnięcia, Łączy nas piłka, Profil facebook) powinny mieć znaki ograniczone do         liter
     
 
 <sub>UWAGA: Testy wykonano na systemie Windows 10 ( wersja 22H2, kompilacja 19045.2486), przeglądarka Opera w wersji 94.0.4606.38</sub>
