@@ -34,11 +34,13 @@ DODAJ GRACZA
 #### **_UWAGI EKSPLORACYJNE_**
 
 1 STRONA GŁÓWNA
+
 1.1 Brak uwag
 
 2 DODAJ GRACZA
 
 2.1. Podczas wpisywania w osiągnięciach znaków specjalnych skasowało mi wcześniej wypełnione pola - jednorazowy przypadek
+
 2.2. Po wpisaniu , gdzie to możliwe, randomowych liter cyfr i znaków specjalnych i zatwierdzeniu gracza wyświetla się na moment informacja "nie udało się dodać gracza". Nie ma żadnej informacji w których polach dane zostały źle wprowadzone.
 
 ![błąd dodawanie gracza](https://user-images.githubusercontent.com/39927014/212338306-f32a8cbf-eb38-4c97-97ee-1738c5140fef.jpg)
@@ -47,19 +49,19 @@ DODAJ GRACZA
 
 ![poprawne dodanie gracza](https://user-images.githubusercontent.com/39927014/212340016-3339ebf3-eb0c-44f5-9a09-9f0fcce0fb73.jpg)
 
-2.4. Większość pól musi mieć dokładnie zdefiniowane wartości, jakie może przyjąć: 
+2.4. Większość pól musi mieć dokładnie zdefiniowane wartości, jakie może przyjąć 
 
-    2.4.1 Na przykład pole mejlowe musi mieć zdefiniowany prefix mejla do 2 lub 3 znaków (pl, com)
+    4.1 Na przykład pole mejlowe musi mieć zdefiniowany prefix mejla do 2 lub 3 znaków (pl, com)
   
-    2.4.2 Pola ( imię, nazwisko, poziom rozgrywek, główna pozycja, pozycja alternatywna, osiągnięcia, Łączy nas piłka, języki) powinny mieć znaki ograniczone do liter.                 Dodatkowo wszystkie te pola, prócz imienia i nazwiska) powinny mieć zdefiniowane listy wyboru.
+    4.2 Pola ( imię, nazwisko, poziom rozgrywek, główna pozycja, pozycja alternatywna, osiągnięcia, Łączy nas piłka, języki) powinny mieć znaki ograniczone do liter.                 Dodatkowo wszystkie te pola, prócz imienia i nazwiska) powinny mieć zdefiniowane listy wyboru.
 
-    2.4.3 Pola ( Profil facebook, link do youtube) powinny mieć zdefiniowany schemat podawania adresów, np.: www.facebook.com/xxxxx
+    4.3 Pola ( Profil facebook, link do youtube) powinny mieć zdefiniowany schemat podawania adresów, np.: www.facebook.com/xxxxx
 
-    2.4.4 Pola wagi i wzrostu ograniczyć do 3 dodatnich cyfr. 
+    4.4 Pola wagi i wzrostu ograniczyć do 3 dodatnich cyfr. 
 
-    2.4.5 Pole "telefon" zdefiniować tylko do cyfr i w określonym schemacie, np: 111 222 333
+    4.5 Pole "telefon" zdefiniować tylko do cyfr i w określonym schemacie, np: 111 222 333
 
-    2.4.6 Rok urodzenia możnaby ograniczyć od 1900 w górę.
+    4.6 Rok urodzenia możnaby ograniczyć od 1900 w górę.
 
 3 MECZE
 
