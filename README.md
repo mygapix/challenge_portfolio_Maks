@@ -67,7 +67,15 @@ DODAJ GRACZA
 
 3.1 Większość pól musi mieć dokładnie zdefiniowane wartości, jakie może przyjąć:
 
-    3.1 W polach "zdobyte gole", "stracone gole", "numer" i "recenzja" można wpisać literę "e".
+    3.1.1 W polach "zdobyte gole", "stracone gole" warto zrobić rozwijaną listę z liczbą goli. Teraz można wpisywać kilkucyfrowe wartości.
+    
+    3.1.2 Pola "Web match" i "General" nie zostały przetłumaczone
+    
+    3.1.3 Datę też warto ograniczyć do kilku lat wstecz
+    
+    3.1.4 Pola "kolor koszulki" i "Liga" powinny mieć rozwijane menu wyboru. Teraz można wpisywać wszystkie możliwe znaki.
+    
+    3.1.5 
 
 
     
