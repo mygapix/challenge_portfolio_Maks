@@ -51,7 +51,13 @@ DODAJ GRACZA
 
     4.1 Na przykład pole mejlowe musi mieć zdefiniowany prefix mejla do 2 lub 3 znaków (pl, com)
   
-    4.2 Pola ( imię, nazwisko, poziom rozgrywek, główna pozycja, pozycja alternatywna, osiągnięcia, Łączy nas piłka,) powinny mieć znaki ograniczone do         liter
+    4.2 Pola ( imię, nazwisko, poziom rozgrywek, główna pozycja, pozycja alternatywna, osiągnięcia, Łączy nas piłka, języki) powinny mieć znaki ograniczone do liter.                 Dodatkowo wszystkie te pola, prócz imienia i nazwiska) powinny mieć zdefiniowane listy wyboru.
+
+    4.3 Pola ( Profil facebook, link do youtube) powinny mieć zdefiniowany schemat podawania adresów, np.: www.facebook.com/xxxxx
+
+    4.4 Pola wagi i wzrostu ograniczyć do 3 dodatnich cyfr. 
+
+    4.5 Pole "telefon" zdefiniować tylko do cyfr i w określonym schemacie, np: 111 222 333
     
 
 <sub>UWAGA: Testy wykonano na systemie Windows 10 ( wersja 22H2, kompilacja 19045.2486), przeglądarka Opera w wersji 94.0.4606.38</sub>
