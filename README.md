@@ -31,6 +31,16 @@ DODAJ GRACZA
 * czcionki nad polami tekstowymi powinny być ciut większe.
 * na dole strony zabrakło spolszczenia "Submit" i "clear".
 
+MECZE
+* jak w przypadku okna "dodaj gracza", każde pole powinno być zauważalnie odseparowane od sąsiednich, wrażenie, że jedno nachodzi na drugie.
+
+RAPORTY
+* logotyp "Futbol Kolektyw" i tekst pod nim - razem wyśrodkować.
+* warto uporządkować poszczególne sekcje wyszczególniając co drugą pozycję delikatnym tłem dla poprawienia czytelności.
+
+![Panel raportu](https://user-images.githubusercontent.com/39927014/212767563-f4bd996f-ce6d-4e88-883c-dce433826de9.jpg)
+
+
 #### **_UWAGI EKSPLORACYJNE_**
 
 1 STRONA GŁÓWNA
@@ -75,7 +85,7 @@ DODAJ GRACZA
     
   -  3.1.4 Pola "kolor koszulki" i "Liga" powinny mieć rozwijane menu wyboru. Teraz można wpisywać wszystkie możliwe znaki.
     
-  -  3.1.5 
+  -  3.1.5 Pole "numer" ograniczyć do dodatnich wartości
 
 
     
