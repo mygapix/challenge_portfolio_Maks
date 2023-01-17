@@ -10,7 +10,7 @@ Wiedza i doświadczenie tu nabyte pozwolą mi zweryfikować, czy nadaję się na
 
 ## Subtask 4
 #### **_OPIS STRONY_**
-Aplikacja Scouts Panel polega na dodawaniu skautów piłki nożnej. Służy ona do monitorowania pozycji i umiejętności zawodników.
+Aplikacja Scouts Panel polega na dodawaniu skautów piłki nożnej. Służy ona do monitorowania pozycji, umiejętności zawodników oraz statystyk odbytych meczów.
 Dostęp do strony wymaga posiadania profilu, logowanie odbywa się za pomocą loginu i hasła. 
 
 Na stronie głównej na samej górze jest niebieski pasek z nazwą strony. Niżej po lewej mamy pionowe pole nawigacyjne. W górnej części głównego okna są obok siebie kafelki ze statystykami (ilość graczy, meczy, raportów i akcji). Poniżej mamy kafelek panelu zarządzania graczami, meczami i do tworzenia raportów. Pod linkami pomocniczymi jest opcja "dodaj gracza". Po prawej stronie okno z ostatnimi akcjami wykonanymi na stronie.
