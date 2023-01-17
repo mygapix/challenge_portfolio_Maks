@@ -87,7 +87,12 @@ RAPORTY
     
   -  3.1.5 Pole "numer" ograniczyć do dodatnich wartości
 
+4 GRACZE
 
-    
+4.1 Nie wiem czy to kwestia przeglądarek ( Opera i Chrome), ale w opcji drukowania strony nie można ustawić widoku na wszystkie kategorie
+
+
+   ![Lista graczy drukowanie](https://user-images.githubusercontent.com/39927014/212984403-02d6847d-4801-4e86-8c83-b028cc147307.jpg)
+
 
 <sub>UWAGA: Testy wykonano na systemie Windows 10 ( wersja 22H2, kompilacja 19045.2486), przeglądarka Opera w wersji 94.0.4606.38</sub>
