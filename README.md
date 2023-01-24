@@ -98,12 +98,27 @@ RAPORTY
 
 ![tableDownload](https://user-images.githubusercontent.com/39927014/212985667-b14e629c-97e9-4ebf-a8ea-7f5b9dc0286c.jpg)
 
+<sub>UWAGA: Testy wykonano na systemie Windows 10 ( wersja 22H2, kompilacja 19045.2486), przeglądarka Opera w wersji 94.0.4606.38</sub>
+
 # **Task2**
+
+## Subtask 1
+
+https://docs.google.com/spreadsheets/d/1k2VSX9ljLJZ7DYsGkprwYF0FLrvy9BQv/edit?usp=sharing&ouid=109741062900965762182&rtpof=true&sd=true
+
+## Subtask 2
+
+https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?usp=sharing&ouid=109741062900965762182&rtpof=true&sd=true
 
 ## Subtask 3
 
 Po co piszemy test case’y?
-* Dla utrzymania porządku w test case'ach
+* Lepsza kontrola nad tym, co jest do przetestowania
+* Wykrywają błędy logiczne w historyjkach użytkownika i aplikacji
+* wychwycenie błędów przed wyposzczeniem produktu do eksploatacji
+* Pokrycie przypadkami testowymi jak największej ilości funkcjonalności aplikacji zmniejszamy szanse wystąpienia poważniejszych błędów
+* Numeracja i zwięzłe nazewnictwo każdego przypadku testowego ułatwia poruszanie się między nimi
+* Na dobrze napisanej liście przypadków testowych może pracować kilka osób
 
 
-<sub>UWAGA: Testy wykonano na systemie Windows 10 ( wersja 22H2, kompilacja 19045.2486), przeglądarka Opera w wersji 94.0.4606.38</sub>
+
