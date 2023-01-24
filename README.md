@@ -118,7 +118,7 @@ Po co piszemy test case’y?
 * wychwycenie błędów przed wyposzczeniem produktu do eksploatacji
 * Pokrycie przypadkami testowymi jak największej ilości funkcjonalności aplikacji zmniejszamy szanse wystąpienia poważniejszych błędów
 * Numeracja i zwięzłe nazewnictwo każdego przypadku testowego ułatwia poruszanie się między nimi
-* Na dobrze napisanej liście przypadków testowych może pracować kilka osób
+* Dobrze napisana lista przypadków testowych może być przejmowana przez kolejne osoby
 
 
 
