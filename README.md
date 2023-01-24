@@ -98,5 +98,12 @@ RAPORTY
 
 ![tableDownload](https://user-images.githubusercontent.com/39927014/212985667-b14e629c-97e9-4ebf-a8ea-7f5b9dc0286c.jpg)
 
+# **Task2**
+
+## Subtask 3
+
+Po co piszemy test case’y?
+
+
 
 <sub>UWAGA: Testy wykonano na systemie Windows 10 ( wersja 22H2, kompilacja 19045.2486), przeglądarka Opera w wersji 94.0.4606.38</sub>
