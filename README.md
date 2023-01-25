@@ -40,6 +40,13 @@ RAPORTY
 
 ![Panel raportu](https://user-images.githubusercontent.com/39927014/212767563-f4bd996f-ce6d-4e88-883c-dce433826de9.jpg)
 
+<<<< EDIT 25.01>>>>
+
+MECZ "START REPORT"
+
+![Match report](https://user-images.githubusercontent.com/39927014/214546270-d5b8d9aa-6686-4442-ac6a-3fdeab33ef8d.jpg)
+
+<<<<END EDIT>>>>>
 
 #### **_UWAGI EKSPLORACYJNE_**
 
