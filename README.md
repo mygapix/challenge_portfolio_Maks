@@ -120,7 +120,7 @@ https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?us
 ## Subtask 3
 
 Po co piszemy test case’y?
-* Lepsza kontrola nad tym, co jest do przetestowania
+* Lepsza kontrola nad tym, co jest do przetestowania. Gwarancja, że żadna funkcjonalność nie zostanie pominięta.
 * Wykrywają błędy logiczne w historyjkach użytkownika i aplikacji
 * wychwycenie błędów przed wyposzczeniem produktu do eksploatacji
 * Pokrycie przypadkami testowymi jak największej ilości funkcjonalności aplikacji zmniejszamy szanse wystąpienia poważniejszych błędów
