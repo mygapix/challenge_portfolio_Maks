@@ -1,5 +1,5 @@
 # challenge_portfolio_Maks
-# **Task1**
+# **Task 1**
 ## Subtask 1
 7 punktów
 ## Subtask 3
@@ -107,7 +107,7 @@ MECZ "START REPORT"
 
 <sub>UWAGA: Testy wykonano na systemie Windows 10 ( wersja 22H2, kompilacja 19045.2486), przeglądarka Opera w wersji 94.0.4606.38</sub>
 
-# **Task2**
+# **Task 2**
 
 ## Subtask 1
 
@@ -127,7 +127,7 @@ Po co piszemy test case’y?
 * Numeracja i zwięzłe nazewnictwo każdego przypadku testowego ułatwia poruszanie się między nimi
 * Dobrze napisana lista przypadków testowych może być przejmowana przez kolejne osoby
   
-# **Task2**
+# **Task 3**
   
 ## Subtask 1
   
@@ -144,6 +144,6 @@ Po co piszemy test case’y?
 
 ## Subtask 3
   
-  https://docs.google.com/spreadsheets/d/1GJw7oZQBmmsyJ-zLdWyEVHJf7AV_CSQB/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
+ https://docs.google.com/spreadsheets/d/1TKrXUbD2A5wnBecPmASfipWVhc2RNm5O/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
 
 
