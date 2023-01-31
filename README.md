@@ -126,6 +126,24 @@ Po co piszemy test case’y?
 * Pokrycie przypadkami testowymi jak największej ilości funkcjonalności aplikacji zmniejszamy szanse wystąpienia poważniejszych błędów
 * Numeracja i zwięzłe nazewnictwo każdego przypadku testowego ułatwia poruszanie się między nimi
 * Dobrze napisana lista przypadków testowych może być przejmowana przez kolejne osoby
+  
+# **Task2**
+  
+## Subtask 1
+  
+  https://docs.google.com/spreadsheets/d/1Vyvnd0yYJ1A1et3lduxvTJqAHTJ1ontK/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
+  
+## Subtask 2
+  
+  * Based on User story Test Cases
+  https://docs.google.com/spreadsheets/d/1onzTMEpjXXKKY03y5fct-EDPGlEdXRMg/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
+  
+  * Based on experience
+  https://docs.google.com/spreadsheets/d/1eHD6XdmwG53eR9U0crZM2ilYy2-0Wa_a/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
+  
 
+## Subtask 3
+  
+  https://docs.google.com/spreadsheets/d/1GJw7oZQBmmsyJ-zLdWyEVHJf7AV_CSQB/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
 
 
