@@ -138,7 +138,7 @@ Po co piszemy test case’y?
   * Based on User story Test Cases
   https://docs.google.com/spreadsheets/d/1onzTMEpjXXKKY03y5fct-EDPGlEdXRMg/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
   
-  * Based on experience
+  * Based on experience tests
   https://docs.google.com/spreadsheets/d/1eHD6XdmwG53eR9U0crZM2ilYy2-0Wa_a/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
   
 
