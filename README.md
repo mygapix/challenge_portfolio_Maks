@@ -121,7 +121,7 @@ https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?us
 
 Po co piszemy test case’y?
 
-[https://tenor.com/bm3dR.gif](url)
+<div class="tenor-gif-embed" data-postid="17847921" data-share-method="host" data-aspect-ratio="1.31687" data-width="100%"><a href="https://tenor.com/view/friends-american-sitcom-series-ross-geller-david-schwimmer-gif-17847921">Friends American Sitcom GIF</a>from <a href="https://tenor.com/search/friends-gifs">Friends GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 * Lepsza kontrola nad tym, co jest do przetestowania. Gwarancja, że żadna funkcjonalność nie zostanie pominięta.
 * Wykrywają błędy logiczne w historyjkach użytkownika i aplikacji
