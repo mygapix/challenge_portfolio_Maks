@@ -156,7 +156,7 @@ https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?us
 ## Subtask 3 - Do czego służy ta aplikacja?
   Aplikacja OLX służy do zamieszczania ogłoszeń dotyczących kupna/sprzedaży rzeczy lub usług. Użytkownikami aplikacji są osoby planujące zakup konkretnych produktów lub usług.
   
-  Aplikacja, pomimo skromnego interfejsu, jest przyjazna i czytelna dla użytkownika. Kafelki z ogłoszeniami mogły by być dla czytelności bardziej odseparowane od siebie. W kategorii "Motoryzacja" jest zdecydowanie za mało filtrów wyszukiwania lub są gdzieś ukryte:
+  Aplikacja, pomimo skromnego interfejsu, jest przyjazna i czytelna dla użytkownika. Pasek menu jest na dole, co ułatwia obsługę kcuikiem. Kafelki z ogłoszeniami mogły by być dla czytelności bardziej odseparowane od siebie. W kategorii "Motoryzacja" jest zdecydowanie za mało filtrów wyszukiwania lub są gdzieś ukryte. Brak przebiegu auta, rodzaju paliwa, pojemności silnika itd:
 
 https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-a003-eec7cf3a297e.mp4
   
