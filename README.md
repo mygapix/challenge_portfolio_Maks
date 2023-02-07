@@ -1,14 +1,14 @@
 # challenge_portfolio_Maks
-# **Task 1** Testy eksploracyjne
-## Subtask 1 Test
+# **Task 1** - Testy eksploracyjne
+## Subtask 1 - Test
 7 punktów
-## Subtask 3 Info
+## Subtask 3 - Info
 Cześć! Jestem Maks 🙂 Szukałem kursu stawiającego na zadania praktyczne i nie za miliony monet 😉 Poza względami praktycznymi zależy mi na zapoznaniu się z grubsza na specyfice zawodu testera, jak to może wyglądać na co dzień itd. 
 
 Wiedza i doświadczenie tu nabyte pozwolą mi zweryfikować, czy nadaję się na to stanowisko 😄
 #### **_Maks_**
 
-## Subtask 4 Testy eksploracyjne
+## Subtask 4 - Testy eksploracyjne
 #### **_OPIS STRONY_**
 Aplikacja Scouts Panel polega na dodawaniu skautów piłki nożnej. Służy ona do monitorowania pozycji, umiejętności zawodników oraz statystyk odbytych meczów.
 Dostęp do strony wymaga posiadania profilu, logowanie odbywa się za pomocą loginu i hasła. 
