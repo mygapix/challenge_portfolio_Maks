@@ -148,19 +148,19 @@ https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?us
   
  https://docs.google.com/spreadsheets/d/1TKrXUbD2A5wnBecPmASfipWVhc2RNm5O/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
 
-# **Task 4** - Testowanie aplikacji mobilnych - OLX
+# **Task 4** - Testowanie aplikacji mobilnych - OLX 🛒
 
 ## Subtask 2 - Testowanie eksploracyjne i raportowanie błędów
 
 https://docs.google.com/spreadsheets/d/1OkxMtNMAAsOoR7k3GUrkIO2ZBUxR2BIc/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
   
 ## Subtask 3 - Do czego służy ta aplikacja?
-  Aplikacja OLX służy do zamieszczania ogłoszeń dotyczących kupna/sprzedaży rzeczy lub usług. Użytkownikami aplikacji są osoby planujące zakup konkretnych produktów lub usług.
+  Aplikacja OLX służy do zamieszczania ogłoszeń dotyczących kupna/sprzedaży rzeczy lub usług.👜  Użytkownikami aplikacji są osoby planujące zakup konkretnych produktów lub usług.
   
-  Aplikacja, pomimo skromnego interfejsu, jest przyjazna i czytelna dla użytkownika. Pasek menu jest na dole, co ułatwia obsługę kcuikiem. Kafelki z ogłoszeniami mogły by być dla czytelności bardziej odseparowane od siebie. W kategorii "Motoryzacja" jest zdecydowanie za mało filtrów wyszukiwania lub są gdzieś ukryte. Brak przebiegu auta, rodzaju paliwa, pojemności silnika itd:
+  Aplikacja, pomimo skromnego interfejsu, jest przyjazna i czytelna dla użytkownika. Pasek menu jest na dole, co ułatwia obsługę kcuikiem.👍 Kafelki z ogłoszeniami mogły by być dla czytelności bardziej odseparowane od siebie. W kategorii "Motoryzacja" jest zdecydowanie za mało filtrów wyszukiwania lub są gdzieś ukryte.👎 Brak przebiegu auta, rodzaju paliwa, pojemności silnika itd:
 
 https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-a003-eec7cf3a297e.mp4
   
-  Testowanie aplikacji natywnej różni się od testowania aplikacji internetowej. Wynika to z tego, że obsługa telefonu/tabletu jest prostsza i mniej precyzyjna w porównaniu do obsługi komputera. Kursorem i myszką na dużym ekranie jesteśmy w stanie wykonywać bardziej skomplikowane operacje niż palcami na telefonie. Dlatego też aplikacje natywne muszą być dostosowane do tego typu prostej obsługi. Dodatkowo w aplikacjach mobilnych testowaniu podlega ich responsywność w pionowym układzie ekranu i poziomym. 
+  Testowanie aplikacji natywnej różni się od testowania aplikacji internetowej.📱🖥💻📲 Wynika to z tego, że obsługa telefonu/tabletu jest prostsza i mniej precyzyjna w porównaniu do obsługi komputera. Kursorem i myszką na dużym ekranie jesteśmy w stanie wykonywać bardziej skomplikowane operacje niż palcami na telefonie. Dlatego też aplikacje natywne muszą być dostosowane do tego typu prostej obsługi. Dodatkowo w aplikacjach mobilnych testowaniu podlega ich responsywność w pionowym układzie ekranu i poziomym. 
 
 
