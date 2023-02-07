@@ -148,12 +148,15 @@ https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?us
   
  https://docs.google.com/spreadsheets/d/1TKrXUbD2A5wnBecPmASfipWVhc2RNm5O/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
 
-# **Task 4** - Testowanie aplikacji mobilnych
+# **Task 4** - Testowanie aplikacji mobilnych - OLX
 
 ## Subtask 2 - Testowanie eksploracyjne i raportowanie błędów
 
 
 ## Subtask 3 - Do czego służy ta aplikacja?
+  Aplikacja OLX służy do zamieszczania ogłoszeń dotyczących kupna/sprzedaży rzeczy lub usług. Użytkownikami aplikacji są osoby planujące zakup konkretnych produktów lub usług.
+  
+  Aplikacja, pomimo skromnego interfejsu, jest przyjazna i czytelna dla użytkownika. Kafelki z ogłoszeniami mogły by być dla czytelności bardziej odseparowane od siebie.
 
 
 
