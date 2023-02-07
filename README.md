@@ -159,5 +159,7 @@ https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?us
   Aplikacja, pomimo skromnego interfejsu, jest przyjazna i czytelna dla użytkownika. Kafelki z ogłoszeniami mogły by być dla czytelności bardziej odseparowane od siebie. W kategorii "Motoryzacja" jest zdecydowanie za mało filtrów wyszukiwania lub są gdzieś ukryte:
 
 https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-a003-eec7cf3a297e.mp4
+  
+  Testowanie aplikacji natywnej różni się od testowania aplikacji internetowej. Wynika to z tego, że obsługa telefonu/tabletu jest prostsza i mniej precyzyjna w porównaniu do obsługi komputera. Kursorem i myszką na dużym ekranie jesteśmy w stanie wykonywać bardziej skomplikowane operacje niż palcami na telefonie. Dlatego też aplikacje natywne muszą być dostosowane do tego typu prostej obsługi. Dodatkowo w aplikacjach mobilnych testowaniu podlega ich responsywność w pionowym układzie ekranu i poziomym. 
 
 
