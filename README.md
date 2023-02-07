@@ -15,7 +15,7 @@ Dostęp do strony wymaga posiadania profilu, logowanie odbywa się za pomocą lo
 
 Na stronie głównej na samej górze jest niebieski pasek z nazwą strony. Niżej po lewej mamy pionowe pole nawigacyjne. W górnej części głównego okna są obok siebie kafelki ze statystykami (ilość graczy, meczy, raportów i akcji). Poniżej mamy kafelek panelu zarządzania graczami, meczami i do tworzenia raportów. Pod linkami pomocniczymi jest opcja "dodaj gracza". Po prawej stronie okno z ostatnimi akcjami wykonanymi na stronie.
 
-👉 #### **_UWAGI DO INTERFEJSU_** 🖼
+#### **_UWAGI DO INTERFEJSU_** 🖼
 
 STRONA GŁÓWNA
 * pole nawigacyjne powinno być przeniesione na górny niebieski pasek, jako, że w tym miejscu będzie bardziej widoczne. Napisy w polu nawigacyjnym też powinny się bardziej wyróżniać.
