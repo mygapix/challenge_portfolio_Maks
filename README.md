@@ -107,18 +107,17 @@ MECZ "START REPORT"
 
 <sub>UWAGA: Testy wykonano na systemie Windows 10 ( wersja 22H2, kompilacja 19045.2486), przeglądarka Opera w wersji 94.0.4606.38</sub>
 
-# **Task 2** Test cases
+# **Task 2** - Test cases
 
-## Subtask 1 Pisanie przypadków testowych na podstawie User Story.
+## Subtask 1 - Pisanie przypadków testowych na podstawie User Story.
 
 https://docs.google.com/spreadsheets/d/1k2VSX9ljLJZ7DYsGkprwYF0FLrvy9BQv/edit?usp=sharing&ouid=109741062900965762182&rtpof=true&sd=true
 
-## Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń
+## Subtask 2 - Pisanie przypadków testowych na podstawie “własnych doświadczeń
 
 https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?usp=sharing&ouid=109741062900965762182&rtpof=true&sd=true
 
-## Subtask 3 Po co piszemy test case’y?
-
+## Subtask 3 - Po co piszemy test case’y?
 
 
 ![friends-american-sitcom](https://user-images.githubusercontent.com/39927014/216820030-26c94370-4a4f-481d-99ad-caab82a7d675.gif)
@@ -130,13 +129,13 @@ https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?us
 * Numeracja i zwięzłe nazewnictwo każdego przypadku testowego ułatwia poruszanie się między nimi
 * Dobrze napisana lista przypadków testowych może być przejmowana przez kolejne osoby
   
-# **Task 3**
+# **Task 3** - Raportowanie błędów
   
-## Subtask 1
+## Subtask 1 - Utworzenie formatki do zgłaszania błędów systemu
   
   https://docs.google.com/spreadsheets/d/1Vyvnd0yYJ1A1et3lduxvTJqAHTJ1ontK/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
   
-## Subtask 2
+## Subtask 2 - Testowanie według planów testów i raportowanie błędów
   
   * Based on User story Test Cases
   https://docs.google.com/spreadsheets/d/1onzTMEpjXXKKY03y5fct-EDPGlEdXRMg/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
@@ -145,16 +144,16 @@ https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?us
   https://docs.google.com/spreadsheets/d/1eHD6XdmwG53eR9U0crZM2ilYy2-0Wa_a/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
   
 
-## Subtask 3
+## Subtask 3 - Raport z wykonanych testów
   
  https://docs.google.com/spreadsheets/d/1TKrXUbD2A5wnBecPmASfipWVhc2RNm5O/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
 
-# **Task 4**
+# **Task 4** - Testowanie aplikacji mobilnych
 
-## Subtask 2
+## Subtask 2 - Testowanie eksploracyjne i raportowanie błędów
 
 
-## Subtask 3
+## Subtask 3 - Do czego służy ta aplikacja?
 
 
 
