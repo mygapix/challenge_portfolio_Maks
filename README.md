@@ -158,5 +158,6 @@ https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?us
   
   Aplikacja, pomimo skromnego interfejsu, jest przyjazna i czytelna dla użytkownika. Kafelki z ogłoszeniami mogły by być dla czytelności bardziej odseparowane od siebie. W kategorii "Motoryzacja" jest zdecydowanie za mało filtrów wyszukiwania lub są gdzieś ukryte:
 
+https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-a003-eec7cf3a297e.mp4
 
 
