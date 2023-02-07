@@ -152,7 +152,8 @@ https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?us
 
 ## Subtask 2 - Testowanie eksploracyjne i raportowanie błędów
 
-
+https://docs.google.com/spreadsheets/d/1OkxMtNMAAsOoR7k3GUrkIO2ZBUxR2BIc/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
+  
 ## Subtask 3 - Do czego służy ta aplikacja?
   Aplikacja OLX służy do zamieszczania ogłoszeń dotyczących kupna/sprzedaży rzeczy lub usług. Użytkownikami aplikacji są osoby planujące zakup konkretnych produktów lub usług.
   
