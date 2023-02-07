@@ -1,14 +1,14 @@
 # challenge_portfolio_Maks
-# **Task 1**
-## Subtask 1
+# **Task 1** Testy eksploracyjne
+## Subtask 1 Test
 7 punktów
-## Subtask 3
+## Subtask 3 Info
 Cześć! Jestem Maks 🙂 Szukałem kursu stawiającego na zadania praktyczne i nie za miliony monet 😉 Poza względami praktycznymi zależy mi na zapoznaniu się z grubsza na specyfice zawodu testera, jak to może wyglądać na co dzień itd. 
 
 Wiedza i doświadczenie tu nabyte pozwolą mi zweryfikować, czy nadaję się na to stanowisko 😄
 #### **_Maks_**
 
-## Subtask 4
+## Subtask 4 Testy eksploracyjne
 #### **_OPIS STRONY_**
 Aplikacja Scouts Panel polega na dodawaniu skautów piłki nożnej. Służy ona do monitorowania pozycji, umiejętności zawodników oraz statystyk odbytych meczów.
 Dostęp do strony wymaga posiadania profilu, logowanie odbywa się za pomocą loginu i hasła. 
@@ -107,19 +107,19 @@ MECZ "START REPORT"
 
 <sub>UWAGA: Testy wykonano na systemie Windows 10 ( wersja 22H2, kompilacja 19045.2486), przeglądarka Opera w wersji 94.0.4606.38</sub>
 
-# **Task 2**
+# **Task 2** Test cases
 
-## Subtask 1
+## Subtask 1 Pisanie przypadków testowych na podstawie User Story.
 
 https://docs.google.com/spreadsheets/d/1k2VSX9ljLJZ7DYsGkprwYF0FLrvy9BQv/edit?usp=sharing&ouid=109741062900965762182&rtpof=true&sd=true
 
-## Subtask 2
+## Subtask 2 Pisanie przypadków testowych na podstawie “własnych doświadczeń
 
 https://docs.google.com/spreadsheets/d/1iaY3haq1NTlCmZ-9KnFvkYug221VI_nI/edit?usp=sharing&ouid=109741062900965762182&rtpof=true&sd=true
 
-## Subtask 3
+## Subtask 3 Po co piszemy test case’y?
 
-Po co piszemy test case’y?
+
 
 ![friends-american-sitcom](https://user-images.githubusercontent.com/39927014/216820030-26c94370-4a4f-481d-99ad-caab82a7d675.gif)
 
