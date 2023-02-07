@@ -149,4 +149,12 @@ Po co piszemy test case’y?
   
  https://docs.google.com/spreadsheets/d/1TKrXUbD2A5wnBecPmASfipWVhc2RNm5O/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
 
+# **Task 4**
+
+## Subtask 2
+
+
+## Subtask 3
+
+
 
