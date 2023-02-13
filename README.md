@@ -175,3 +175,15 @@ https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-
 - SELECT * FROM <XYZ> ORDER BY <Name>
   
 - SELECT * FROM <XYZ> WHERE
+  
+## Subtask 3 - Kilka zadań na rozgrzewkę
+  
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+  
+  
+  
+  
+  
+  
+  
+  
