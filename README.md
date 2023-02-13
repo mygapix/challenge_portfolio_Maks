@@ -205,8 +205,23 @@ https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-
   
 ### 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
    
+  SELECT actor_id, name FROM `actors` WHERE actor_id >= 4 AND actor_id <= 7
+                                                                          
+  ![5](https://user-images.githubusercontent.com/39927014/218473318-9fe6833d-1958-465d-8757-743449dbee4c.jpg)
 
+### 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
   
+  SELECT customer_id, name FROM `customers` WHERE customer_id%2 = 0                                                                        
+ 
+  ![6](https://user-images.githubusercontent.com/39927014/218480130-e535cec1-4394-49a0-923d-0fc0daa9f25f.jpg)
+                                                          
+### 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.                                                                          
+                                                                          
+  SELECT customer_id, name FROM `customers` WHERE customer_id IN (1, 3, 5)                                                                     
   
-  
+  ![7](https://user-images.githubusercontent.com/39927014/218480404-2078bcec-8f4a-42ad-a56b-59d067d84b38.jpg)
+
+### 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+                                                                          
+                                                                          
   
