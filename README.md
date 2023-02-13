@@ -223,5 +223,22 @@ https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-
 
 ### 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
                                                                           
+  SELECT * FROM `actors` WHERE name LIKE 'An%'      
                                                                           
+  ![8](https://user-images.githubusercontent.com/39927014/218481295-d47fc7c5-b881-418d-b132-123afc17b9c9.jpg)
+                                                                
+### 9. Wyświetl dane klienta, który nie ma podanego adresu email.
+                                                                          
+   SELECT * FROM `customers` WHERE email IS null
+                                                                          
+   ![9](https://user-images.githubusercontent.com/39927014/218481682-a5a45eda-2757-4eb0-bf16-44c47e68e654.jpg)
+                                                                       
+### 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.                                                 
+                                                                          
+  SELECT * FROM `movies` WHERE price > 9 AND movie_id BETWEEN 2 AND 8
+  
+  ![10](https://user-images.githubusercontent.com/39927014/218482850-f26d608c-67cf-4198-9ace-d75e78464efa.jpg)
+
+  
+  
   
