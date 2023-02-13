@@ -186,7 +186,26 @@ https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-
 
 ### 2. Wyświetl film, który powstał w 2019 roku.
   
+  SELECT * FROM `movies` WHERE year_of_production = '2019'
   
+  ![2](https://user-images.githubusercontent.com/39927014/218469509-be1ea41b-9752-490b-b949-cba9e840d956.jpg)
+
+### 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+  
+  SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 and 1999
+  
+  ![3](https://user-images.githubusercontent.com/39927014/218470441-70ee600d-0b5c-469c-a79e-15a06947527b.jpg)
+
+### 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+  
+  SELECT title, price FROM `movies` WHERE price < 7
+                                                   
+                                                   
+  ![4](https://user-images.githubusercontent.com/39927014/218471633-4b693b48-2079-4461-92e1-cda26e571ea4.jpg)
+  
+### 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+   
+
   
   
   
