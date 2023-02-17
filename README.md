@@ -240,5 +240,14 @@ https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-
   ![10](https://user-images.githubusercontent.com/39927014/218482850-f26d608c-67cf-4198-9ace-d75e78464efa.jpg)
 
   
+# **Task 6** - SQL part 2
   
+  ## Subtask 1 - Krótki kurs podstaw SQL
   
+  ### 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd
+  
+  UPDATE customers SET surname = 'Miler' WHERE customer_id = 3;
+  
+  ![1](https://user-images.githubusercontent.com/39927014/219633920-4107af14-72ea-46a9-8ccb-ec27d8914fa7.jpg)
+
+ ### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
