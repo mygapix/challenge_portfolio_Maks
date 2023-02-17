@@ -281,10 +281,15 @@ WHERE sale.movie_id=4
   
   ![14](https://user-images.githubusercontent.com/39927014/219687964-ca9a4f68-d52f-4220-a310-d43450f4aaa6.jpg)
 
+ ### 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+  
+  - ALTER TABLE customers ADD pseudonym varchar(255);
   
   
+  ![15a](https://user-images.githubusercontent.com/39927014/219698871-46dd2ddc-8178-4096-ab5c-b1f6f65d7b79.jpg)
+
   
-  
+  - 
   
   
   
