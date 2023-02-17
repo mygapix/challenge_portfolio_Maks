@@ -270,7 +270,9 @@ WHERE sale.movie_id=4
   
   SELECT customers.name, customers.surname, movies.title
 FROM customers
+  
 INNER JOIN sale ON sale.customer_id=customers.customer_id
+  
 INNER JOIN movies ON movies.movie_id=sale.customer_id
   
   ![14](https://user-images.githubusercontent.com/39927014/219687964-ca9a4f68-d52f-4220-a310-d43450f4aaa6.jpg)
