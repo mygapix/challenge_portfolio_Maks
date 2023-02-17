@@ -251,3 +251,33 @@ https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-
   ![1](https://user-images.githubusercontent.com/39927014/219633920-4107af14-72ea-46a9-8ccb-ec27d8914fa7.jpg)
 
  ### 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+  
+  
+  SELECT customers.name, customers.email
+FROM customers
+INNER JOIN sale ON customers.customer_id=sale.customer_id
+WHERE sale.movie_id=4
+   
+  ![12](https://user-images.githubusercontent.com/39927014/219645559-70b9fcbc-7a99-490f-ae24-2c6213308d6e.jpg)
+
+### 13.  Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
