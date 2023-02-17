@@ -254,8 +254,11 @@ https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-
   
   
   SELECT customers.name, customers.email
+  
 FROM customers
+  
 INNER JOIN sale ON customers.customer_id=sale.customer_id
+  
 WHERE sale.movie_id=4
    
   ![12](https://user-images.githubusercontent.com/39927014/219645559-70b9fcbc-7a99-490f-ae24-2c6213308d6e.jpg)
@@ -269,7 +272,8 @@ WHERE sale.movie_id=4
 ### 14.   Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
   
   SELECT customers.name, customers.surname, movies.title
-    FROM customers
+  
+  FROM customers
   
   INNER JOIN sale ON sale.customer_id=customers.customer_id
   
