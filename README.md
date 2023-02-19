@@ -289,9 +289,13 @@ WHERE sale.movie_id=4
   ![15a](https://user-images.githubusercontent.com/39927014/219698871-46dd2ddc-8178-4096-ab5c-b1f6f65d7b79.jpg)
 
   
-  - 
+  - UPDATE customers
+    SET pseudonym=(SELECT concat(LEFT(name, 2), RIGHT(surname, 1)))
   
+  ![15b](https://user-images.githubusercontent.com/39927014/219947004-d7acf10f-d0dc-49b8-b6ad-2ac91074f706.jpg)
+
   
+### 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
   
   
   
