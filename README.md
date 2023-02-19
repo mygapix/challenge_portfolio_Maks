@@ -333,9 +333,11 @@ WHERE sale.movie_id=4
   
 ### 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
   
+  INSERT INTO customers (customer_id, name, surname, email) 
+  VALUES ( 7, 'Honia', 'Stuczka-Kucharska', 'honia@mail.com');
+  UPDATE customers SET pseudonym=(SELECT concat(LEFT(name, 2), RIGHT(surname, 1)))
   
-  
-  
-  
+  ![20](https://user-images.githubusercontent.com/39927014/219951683-fb99e489-0812-4ff4-b5d2-95e4226c78d8.jpg)
+
   
   
