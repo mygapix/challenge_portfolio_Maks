@@ -297,9 +297,13 @@ WHERE sale.movie_id=4
   
 ### 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
   
+  SELECT DISTINCT movies.title 
+  FROM sale
+  INNER JOIN movies ON movies.movie_id=sale.movie_id;
   
-  
-  
+  ![16](https://user-images.githubusercontent.com/39927014/219948318-22c1aeee-6a90-48c8-8c16-268996f792ad.jpg)
+
+### 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
   
   
   
