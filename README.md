@@ -322,6 +322,17 @@ WHERE sale.movie_id=4
 
 ### 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
   
+  SELECT actors.name, actors.surname, movies.title
+  FROM actors
+  INNER JOIN cast ON cast.actor_id=actors.actor_id
+  INNER JOIN movies ON movies.movie_id=cast.movie_id
+  WHERE actors.actor_id=4
+  
+  ![19](https://user-images.githubusercontent.com/39927014/219949431-74fc4176-d197-4cd5-88ee-22683c644226.jpg)
+
+  
+### 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
+  
   
   
   
