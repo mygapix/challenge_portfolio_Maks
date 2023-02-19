@@ -315,6 +315,12 @@ WHERE sale.movie_id=4
   
 ### 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
   
+  UPDATE movies
+  SET price=price + 2.5
+  
+  ![18](https://user-images.githubusercontent.com/39927014/219948892-ded93e61-8f36-4fd9-bded-75f1d30afcd2.jpg)
+
+### 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
   
   
   
