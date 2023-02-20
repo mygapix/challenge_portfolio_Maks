@@ -164,7 +164,7 @@ https://user-images.githubusercontent.com/39927014/217283892-2bb52cc1-8274-498f-
   Testowanie aplikacji natywnej różni się od testowania aplikacji internetowej.📱🖥💻📲 Wynika to z tego, że obsługa telefonu/tabletu jest prostsza i mniej precyzyjna w porównaniu do obsługi komputera. Kursorem i myszką na dużym ekranie jesteśmy w stanie wykonywać bardziej skomplikowane operacje niż palcami na telefonie. Dlatego też aplikacje natywne muszą być dostosowane do tego typu prostej obsługi. Dodatkowo w aplikacjach mobilnych testowaniu podlega ich responsywność w pionowym układzie ekranu i poziomym. 
 
 
-# **Task 4** - SQL part 1
+# **Task 5** - SQL part 1
 
 ## Subtask 1 - Krótki kurs podstaw SQL
 
