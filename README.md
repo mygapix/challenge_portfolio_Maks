@@ -339,5 +339,9 @@ WHERE sale.movie_id=4
   
   ![20](https://user-images.githubusercontent.com/39927014/219951683-fb99e489-0812-4ff4-b5d2-95e4226c78d8.jpg)
 
+## Subtask 2 - Test
   
+  
+
+## Subtask 3 - Tworzymy portfolio
   
