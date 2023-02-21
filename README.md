@@ -341,7 +341,7 @@ WHERE sale.movie_id=4
 
 ## Subtask 2 - Test
   
-  
+  wynik -7
 
 ## Subtask 3 - Tworzymy portfolio
   
